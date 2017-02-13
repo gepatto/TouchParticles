@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="TouchParticles" package="com.sample.touchparticles" version="1.0.0" company="Gepatto Interactive Media" />
+	<app main="Main" path="Export" file="TouchParticles" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+	
+	<assets path="Assets" rename="assets" />
+
+	<window background="0x000000" fps="60" />
+
+</project>
